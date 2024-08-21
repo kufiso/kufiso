@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![.]https://tenor.com/pt-BR/view/soul-eater-crona-pet-gif-21160703
+![.]https://media.tenor.com/Hzf0mCpNQDQAAAAi/soul-eater-crona.gif]
