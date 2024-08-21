@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-!(https://media.tenor.com/Hzf0mCpNQDQAAAAi/soul-eater-crona.gif)
+![](https://media.tenor.com/Hzf0mCpNQDQAAAAi/soul-eater-crona.gif)
